@@ -1,5 +1,5 @@
-# pdf2xlsx_bat
-批量转换pdf为xlsx
+# 批量转换pdf为xlsx
+pdf2xlsx_bat
 
 ## 安装第三方依赖
 python -m pip install --upgrade pip
